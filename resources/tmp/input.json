@@ -1,0 +1,4 @@
+{
+  "sentences_path": "resources/tmp/input_sentences.txt",
+  "dic_path": "resources/tmp/input_words.txt"
+}

@@ -1,0 +1,533 @@
+son las diez las nueve en canarias
+	p( son | <s> ) 	= [2gram] 0.001134974 [ -2.945014 ]
+	p( las | son ...) 	= [2gram] 0.007666621 [ -2.115396 ]
+	p( diez | las ...) 	= [2gram] 0.003066649 [ -2.513336 ]
+	p( las | diez ...) 	= [1gram] 0.004796231 [ -2.3191 ]
+	p( nueve | las ...) 	= [1gram] 0.0005483252 [ -3.260962 ]
+	p( en | nueve ...) 	= [1gram] 0.01961609 [ -1.707388 ]
+	p( canarias | en ...) 	= [2gram] 0.01796632 [ -1.745541 ]
+	p( </s> | canarias ...) 	= [1gram] 0.07220272 [ -1.141446 ]
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -17.74818 ppl= 165.3952 ppl1= 343.1268
+
+pablo iglesias asegura que es partidario de que manuela carmena tenga su espacio político propio
+	p( pablo | <s> ) 	= [1gram] 4.07703e-05 [ -4.389656 ]
+	p( iglesias | pablo ...) 	= [2gram] 0.1686658 [ -0.7729729 ]
+	p( asegura | iglesias ...) 	= [1gram] 0.002653692 [ -2.576149 ]
+	p( que | asegura ...) 	= [1gram] 0.02836443 [ -1.547226 ]
+	p( es | que ...) 	= [2gram] 0.04147305 [ -1.382234 ]
+	p( partidario | es ...) 	= [1gram] 3.227288e-05 [ -4.491162 ]
+	p( de | partidario ...) 	= [2gram] 0.1686658 [ -0.7729729 ]
+	p( que | de ...) 	= [2gram] 0.008630342 [ -2.063972 ]
+	p( manuela | que ...) 	= [1gram] 0.002563569 [ -2.591155 ]
+	p( carmena | manuela ...) 	= [1gram] 5.272555e-05 [ -4.277979 ]
+	p( tenga | carmena ...) 	= [1gram] 4.777311e-05 [ -4.320817 ]
+	p( su | tenga ...) 	= [1gram] 0.00211034 [ -2.675647 ]
+	p( espacio | su ...) 	= [1gram] 0.0002093306 [ -3.679167 ]
+	p( político | espacio ...) 	= [1gram] 5.023346e-05 [ -4.299007 ]
+	p( propio | político ...) 	= [1gram] 0.002653551 [ -2.576173 ]
+	p( </s> | propio ...) 	= [1gram] 0.08248519 [ -1.083624 ]
+1 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -43.49991 ppl= 523.2927 ppl1= 794.3178
+
+líder de podemos advierte no obstante de que sin la presencia de su partido en la lista de carmena
+	p( líder | <s> ) 	= [1gram] 0.002443154 [ -2.612049 ]
+	p( de | líder ...) 	= [1gram] 0.0448855 [ -1.347894 ]
+	p( podemos | de ...) 	= [1gram] 0.0003332645 [ -3.477211 ]
+	p( advierte | podemos ...) 	= [1gram] 0.0026442 [ -2.577706 ]
+	p( no | advierte ...) 	= [1gram] 0.01013426 [ -1.994208 ]
+	p( obstante | no ...) 	= [1gram] 0.002275402 [ -2.642942 ]
+	p( de | obstante ...) 	= [1gram] 0.0448855 [ -1.347894 ]
+	p( que | de ...) 	= [2gram] 0.008630342 [ -2.063972 ]
+	p( sin | que ...) 	= [1gram] 0.001135084 [ -2.944972 ]
+	p( la | sin ...) 	= [2gram] 0.0129743 [ -1.886916 ]
+	p( presencia | la ...) 	= [2gram] 0.0007529724 [ -3.123221 ]
+	p( de | presencia ...) 	= [1gram] 0.03798105 [ -1.420433 ]
+	p( su | de ...) 	= [2gram] 0.0056092 [ -2.251099 ]
+	p( partido | su ...) 	= [1gram] 0.0002093306 [ -3.679167 ]
+	p( en | partido ...) 	= [1gram] 0.02027033 [ -1.693139 ]
+	p( la | en ...) 	= [2gram] 0.0808595 [ -1.092269 ]
+	p( lista | la ...) 	= [2gram] 0.0007529724 [ -3.123221 ]
+	p( de | lista ...) 	= [1gram] 0.03784805 [ -1.421957 ]
+	p( carmena | de ...) 	= [2gram] 0.0005095644 [ -3.292801 ]
+	p( </s> | carmena ...) 	= [2gram] 0.1686658 [ -0.7729729 ]
+1 sentences, 19 words, 0 OOVs
+0 zeroprobs, logprob= -44.76604 ppl= 173.102 ppl1= 227.0427
+
+difícil que puede a repetir como alcaldesa palabras de iglesias aquí en hoy por hoy
+	p( difícil | <s> ) 	= [1gram] 0.0001202979 [ -3.919742 ]
+	p( que | difícil ...) 	= [1gram] 0.02365303 [ -1.626113 ]
+	p( puede | que ...) 	= [2gram] 0.002112516 [ -2.6752 ]
+	p( a | puede ...) 	= [1gram] 0.01245071 [ -1.904806 ]
+	p( repetir | a ...) 	= [1gram] 0.002369635 [ -2.625319 ]
+	p( como | repetir ...) 	= [1gram] 0.006336318 [ -2.198163 ]
+	p( alcaldesa | como ...) 	= [1gram] 0.0007434456 [ -3.128751 ]
+	p( palabras | alcaldesa ...) 	= [1gram] 4.266466e-05 [ -4.369932 ]
+	p( de | palabras ...) 	= [1gram] 0.03742406 [ -1.426849 ]
+	p( iglesias | de ...) 	= [1gram] 0.0001153459 [ -3.937998 ]
+	p( aquí | iglesias ...) 	= [1gram] 0.001334482 [ -2.874687 ]
+	p( en | aquí ...) 	= [2gram] 0.05037546 [ -1.297781 ]
+	p( hoy | en ...) 	= [2gram] 0.004118745 [ -2.385235 ]
+	p( por | hoy ...) 	= [2gram] 0.3285549 [ -0.4833921 ]
+	p( hoy | por ...) 	= [2gram] 0.1408093 [ -0.8513688 ]
+	p( </s> | hoy ...) 	= [2gram] 0.005622197 [ -2.250094 ]
+1 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -37.95543 ppl= 235.6212 ppl1= 339.1267
+
+buena idea que manuela tenga su propio partido su propio espacio político nosotros estamos muy orgullosos de haber propuesto hace cuatro años a manuela carmena recibimos muchas críticas y creo que acertamos
+	p( buena | <s> ) 	= [1gram] 0.0001202979 [ -3.919742 ]
+	p( idea | buena ...) 	= [1gram] 4.463479e-05 [ -4.350327 ]
+	p( que | idea ...) 	= [1gram] 0.02570021 [ -1.590063 ]
+	p( manuela | que ...) 	= [1gram] 0.002563569 [ -2.591155 ]
+	p( tenga | manuela ...) 	= [1gram] 5.272555e-05 [ -4.277979 ]
+	p( su | tenga ...) 	= [1gram] 0.00211034 [ -2.675647 ]
+	p( propio | su ...) 	= [1gram] 0.002547803 [ -2.593834 ]
+	p( partido | propio ...) 	= [1gram] 0.0002595942 [ -3.585705 ]
+	p( su | partido ...) 	= [1gram] 0.002110775 [ -2.675558 ]
+	p( propio | su ...) 	= [1gram] 0.002547803 [ -2.593834 ]
+	p( espacio | propio ...) 	= [1gram] 0.0002595942 [ -3.585705 ]
+	p( político | espacio ...) 	= [1gram] 5.023346e-05 [ -4.299007 ]
+	p( nosotros | político ...) 	= [1gram] 0.000855958 [ -3.067548 ]
+	p( estamos | nosotros ...) 	= [2gram] 0.02409512 [ -1.618071 ]
+	p( muy | estamos ...) 	= [1gram] 0.003899735 [ -2.408965 ]
+	p( orgullosos | muy ...) 	= [1gram] 0.002085057 [ -2.680882 ]
+	p( de | orgullosos ...) 	= [1gram] 0.0448855 [ -1.347894 ]
+	p( haber | de ...) 	= [1gram] 0.0001924695 [ -3.715638 ]
+	p( propuesto | haber ...) 	= [1gram] 0.002627888 [ -2.580393 ]
+	p( hace | propuesto ...) 	= [1gram] 0.00196867 [ -2.705827 ]
+	p( cuatro | hace ...) 	= [1gram] 0.0001205335 [ -3.918892 ]
+	p( años | cuatro ...) 	= [1gram] 0.0003024461 [ -3.519352 ]
+	p( a | años ...) 	= [1gram] 0.01370747 [ -1.863043 ]
+	p( manuela | a ...) 	= [1gram] 0.002369635 [ -2.625319 ]
+	p( carmena | manuela ...) 	= [1gram] 5.272555e-05 [ -4.277979 ]
+	p( recibimos | carmena ...) 	= [1gram] 0.002862798 [ -2.543209 ]
+	p( muchas | recibimos ...) 	= [1gram] 0.0006393886 [ -3.194235 ]
+	p( críticas | muchas ...) 	= [1gram] 0.0024294 [ -2.614501 ]
+	p( y | críticas ...) 	= [1gram] 0.01279281 [ -1.893034 ]
+	p( creo | y ...) 	= [1gram] 0.0004068833 [ -3.39053 ]
+	p( que | creo ...) 	= [2gram] 0.9398235 [ -0.0269537 ]
+	p( acertamos | que ...) 	= [1gram] 0.002563569 [ -2.591155 ]
+	p( </s> | acertamos ...) 	= [1gram] 0.08248519 [ -1.083624 ]
+1 sentences, 32 words, 0 OOVs
+0 zeroprobs, logprob= -92.4056 ppl= 631.204 ppl1= 772.1026
+
+creo que la clave de los ingredientes para que manuel vuelva a ser alcaldesa que es lo que todos deseamos
+	p( creo | <s> ) 	= [2gram] 0.004950863 [ -2.305319 ]
+	p( que | creo ...) 	= [2gram] 0.9398235 [ -0.0269537 ]
+	p( la | que ...) 	= [2gram] 0.00598919 [ -2.222632 ]
+	p( clave | la ...) 	= [1gram] 0.002547953 [ -2.593809 ]
+	p( de | clave ...) 	= [1gram] 0.0448855 [ -1.347894 ]
+	p( los | de ...) 	= [2gram] 0.03279955 [ -1.484132 ]
+	p( ingredientes | los ...) 	= [1gram] 0.002753062 [ -2.560184 ]
+	p( para | ingredientes ...) 	= [1gram] 0.008045386 [ -2.094453 ]
+	p( que | para ...) 	= [2gram] 0.01393362 [ -1.855936 ]
+	p( manuel | que ...) 	= [1gram] 0.002563569 [ -2.591155 ]
+	p( vuelva | manuel ...) 	= [1gram] 0.003159571 [ -2.500372 ]
+	p( a | vuelva ...) 	= [1gram] 0.01602109 [ -1.795308 ]
+	p( ser | a ...) 	= [2gram] 0.005281289 [ -2.27726 ]
+	p( alcaldesa | ser ...) 	= [1gram] 0.0005902285 [ -3.22898 ]
+	p( que | alcaldesa ...) 	= [1gram] 0.02295204 [ -1.639179 ]
+	p( es | que ...) 	= [2gram] 0.04147305 [ -1.382234 ]
+	p( lo | es ...) 	= [2gram] 0.0131677 [ -1.88049 ]
+	p( que | lo ...) 	= [2gram] 0.38345 [ -0.4162913 ]
+	p( todos | que ...) 	= [1gram] 0.000981009 [ -3.008327 ]
+	p( deseamos | todos ...) 	= [1gram] 0.002384585 [ -2.622587 ]
+	p( </s> | deseamos ...) 	= [1gram] 0.08248519 [ -1.083624 ]
+1 sentences, 20 words, 0 OOVs
+0 zeroprobs, logprob= -40.91712 ppl= 88.80435 ppl1= 111.1363
+
+sumar todas las piezas no dejarse ninguna fuera
+	p( sumar | <s> ) 	= [1gram] 0.002443154 [ -2.612049 ]
+	p( todas | sumar ...) 	= [1gram] 0.0002595942 [ -3.585705 ]
+	p( las | todas ...) 	= [2gram] 0.2182934 [ -0.6609593 ]
+	p( piezas | las ...) 	= [1gram] 0.002709576 [ -2.567099 ]
+	p( no | piezas ...) 	= [1gram] 0.01013426 [ -1.994208 ]
+	p( dejarse | no ...) 	= [1gram] 0.002275402 [ -2.642942 ]
+	p( ninguna | dejarse ...) 	= [1gram] 0.003159571 [ -2.500372 ]
+	p( fuera | ninguna ...) 	= [1gram] 0.0001555733 [ -3.808065 ]
+	p( </s> | fuera ...) 	= [2gram] 0.2182934 [ -0.6609593 ]
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -21.03236 ppl= 217.2344 ppl1= 425.6423
+
+que va a ser
+	p( que | <s> ) 	= [2gram] 0.04827842 [ -1.316247 ]
+	p( va | que ...) 	= [2gram] 0.0005440829 [ -3.264335 ]
+	p( a | va ...) 	= [2gram] 0.6856647 [ -0.1638882 ]
+	p( ser | a ...) 	= [2gram] 0.005281289 [ -2.27726 ]
+	p( </s> | ser ...) 	= [2gram] 0.156666 [ -0.8050252 ]
+1 sentences, 4 words, 0 OOVs
+0 zeroprobs, logprob= -7.826755 ppl= 36.75793 ppl1= 90.50839
+
+todos somos conscientes de que de que si falta alguna de las piezas es muy difícil revalidar la victoria
+	p( todos | <s> ) 	= [1gram] 0.0009349297 [ -3.029221 ]
+	p( somos | todos ...) 	= [1gram] 0.0003392397 [ -3.469493 ]
+	p( conscientes | somos ...) 	= [1gram] 0.002644976 [ -2.577578 ]
+	p( de | conscientes ...) 	= [1gram] 0.0448855 [ -1.347894 ]
+	p( que | de ...) 	= [2gram] 0.008630342 [ -2.063972 ]
+	p( de | que ...) 	= [2gram] 0.0005440829 [ -3.264335 ]
+	p( que | de ...) 	= [2gram] 0.008630342 [ -2.063972 ]
+	p( si | que ...) 	= [2gram] 0.00598919 [ -2.222632 ]
+	p( falta | si ...) 	= [1gram] 4.297368e-05 [ -4.366797 ]
+	p( alguna | falta ...) 	= [1gram] 0.0002162352 [ -3.665074 ]
+	p( de | alguna ...) 	= [1gram] 0.04073469 [ -1.390036 ]
+	p( las | de ...) 	= [2gram] 0.04488415 [ -1.347907 ]
+	p( piezas | las ...) 	= [1gram] 0.002709576 [ -2.567099 ]
+	p( es | piezas ...) 	= [1gram] 0.01393221 [ -1.85598 ]
+	p( muy | es ...) 	= [2gram] 0.02735212 [ -1.563009 ]
+	p( difícil | muy ...) 	= [2gram] 0.005622197 [ -2.250094 ]
+	p( revalidar | difícil ...) 	= [1gram] 0.002634757 [ -2.579259 ]
+	p( la | revalidar ...) 	= [1gram] 0.01792004 [ -1.746661 ]
+	p( victoria | la ...) 	= [1gram] 0.002547953 [ -2.593809 ]
+	p( </s> | victoria ...) 	= [1gram] 0.08248519 [ -1.083624 ]
+1 sentences, 19 words, 0 OOVs
+0 zeroprobs, logprob= -47.04845 ppl= 225.1243 ppl1= 299.3877
+
+ha pedido al gobierno que se esfuerce más para sacar adelante los presupuestos pero admite
+	p( ha | <s> ) 	= [2gram] 0.000292315 [ -3.534149 ]
+	p( pedido | ha ...) 	= [1gram] 0.00233094 [ -2.632469 ]
+	p( al | pedido ...) 	= [1gram] 0.00652621 [ -2.185339 ]
+	p( gobierno | al ...) 	= [1gram] 4.323834e-05 [ -4.364131 ]
+	p( que | gobierno ...) 	= [1gram] 0.02358156 [ -1.627427 ]
+	p( se | que ...) 	= [2gram] 0.04792466 [ -1.319441 ]
+	p( esfuerce | se ...) 	= [1gram] 0.002556452 [ -2.592362 ]
+	p( más | esfuerce ...) 	= [1gram] 0.004437344 [ -2.352877 ]
+	p( para | más ...) 	= [1gram] 0.007914677 [ -2.101567 ]
+	p( sacar | para ...) 	= [1gram] 0.00302873 [ -2.518739 ]
+	p( adelante | sacar ...) 	= [1gram] 0.0002595942 [ -3.585705 ]
+	p( los | adelante ...) 	= [1gram] 0.00428991 [ -2.367552 ]
+	p( presupuestos | los ...) 	= [1gram] 0.002753062 [ -2.560184 ]
+	p( pero | presupuestos ...) 	= [1gram] 0.005196933 [ -2.284253 ]
+	p( admite | pero ...) 	= [1gram] 0.00259753 [ -2.585439 ]
+	p( </s> | admite ...) 	= [1gram] 0.08248519 [ -1.083624 ]
+1 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -39.69526 ppl= 302.6591 ppl1= 442.9458
+
+partido debe estar preparado para un posible adelanto electoral por lo demás la protesta de camioneros en barcelona sea trasladado
+	p( partido | <s> ) 	= [1gram] 0.0002007325 [ -3.697382 ]
+	p( debe | partido ...) 	= [1gram] 0.0005316832 [ -3.274347 ]
+	p( estar | debe ...) 	= [1gram] 0.0002530262 [ -3.596834 ]
+	p( preparado | estar ...) 	= [1gram] 4.226059e-05 [ -4.374064 ]
+	p( para | preparado ...) 	= [2gram] 0.1686658 [ -0.7729729 ]
+	p( un | para ...) 	= [1gram] 0.009168482 [ -2.037703 ]
+	p( posible | un ...) 	= [1gram] 0.0001929399 [ -3.714578 ]
+	p( adelanto | posible ...) 	= [1gram] 0.002714557 [ -2.566301 ]
+	p( electoral | adelanto ...) 	= [1gram] 0.003159571 [ -2.500372 ]
+	p( por | electoral ...) 	= [1gram] 0.008235292 [ -2.084321 ]
+	p( lo | por ...) 	= [1gram] 0.00315683 [ -2.500749 ]
+	p( demás | lo ...) 	= [1gram] 0.001680495 [ -2.774563 ]
+	p( la | demás ...) 	= [1gram] 0.01792004 [ -1.746661 ]
+	p( protesta | la ...) 	= [1gram] 4.251913e-05 [ -4.371416 ]
+	p( de | protesta ...) 	= [1gram] 0.04066948 [ -1.390731 ]
+	p( camioneros | de ...) 	= [1gram] 0.002342584 [ -2.630305 ]
+	p( en | camioneros ...) 	= [1gram] 0.02437659 [ -1.613027 ]
+	p( barcelona | en ...) 	= [1gram] 0.002034611 [ -2.691519 ]
+	p( sea | barcelona ...) 	= [1gram] 0.001209083 [ -2.917544 ]
+	p( trasladado | sea ...) 	= [1gram] 0.003096275 [ -2.509161 ]
+	p( </s> | trasladado ...) 	= [1gram] 0.08248519 [ -1.083624 ]
+1 sentences, 20 words, 0 OOVs
+0 zeroprobs, logprob= -54.84817 ppl= 409.089 ppl1= 552.5972
+
+de las rondas antonio martín buenos días
+	p( de | <s> ) 	= [2gram] 0.02921427 [ -1.534405 ]
+	p( las | de ...) 	= [2gram] 0.04488415 [ -1.347907 ]
+	p( rondas | las ...) 	= [1gram] 0.002709576 [ -2.567099 ]
+	p( antonio | rondas ...) 	= [1gram] 0.0001555733 [ -3.808065 ]
+	p( martín | antonio ...) 	= [1gram] 0.002626936 [ -2.58055 ]
+	p( buenos | martín ...) 	= [1gram] 0.0002595942 [ -3.585705 ]
+	p( días | buenos ...) 	= [2gram] 0.7856646 [ -0.1047628 ]
+	p( </s> | días ...) 	= [2gram] 0.219742 [ -0.6580869 ]
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -16.18658 ppl= 105.517 ppl1= 205.2904
+
+buenos días pepa así como estamos contando desde primera hora esa marcha lenta había provocado ya problemas en la ronda litoral los camioneros acusan al ayuntamiento de la ciudad
+	p( buenos | <s> ) 	= [2gram] 0.003217756 [ -2.492447 ]
+	p( días | buenos ...) 	= [2gram] 0.7856646 [ -0.1047628 ]
+	p( pepa | días ...) 	= [1gram] 3.959262e-05 [ -4.402386 ]
+	p( así | pepa ...) 	= [1gram] 0.001095516 [ -2.960381 ]
+	p( como | así ...) 	= [1gram] 0.003977006 [ -2.400444 ]
+	p( estamos | como ...) 	= [1gram] 0.001254167 [ -2.901645 ]
+	p( contando | estamos ...) 	= [1gram] 0.003036688 [ -2.5176 ]
+	p( desde | contando ...) 	= [1gram] 0.00215857 [ -2.665834 ]
+	p( primera | desde ...) 	= [1gram] 4.53464e-05 [ -4.343457 ]
+	p( hora | primera ...) 	= [1gram] 0.0003804965 [ -3.419649 ]
+	p( esa | hora ...) 	= [1gram] 0.0004547141 [ -3.342262 ]
+	p( marcha | esa ...) 	= [1gram] 0.002530028 [ -2.596875 ]
+	p( lenta | marcha ...) 	= [1gram] 0.003159571 [ -2.500372 ]
+	p( había | lenta ...) 	= [1gram] 5.272555e-05 [ -4.277979 ]
+	p( provocado | había ...) 	= [1gram] 0.002626798 [ -2.580573 ]
+	p( ya | provocado ...) 	= [1gram] 0.002538364 [ -2.595446 ]
+	p( problemas | ya ...) 	= [1gram] 4.167503e-05 [ -4.380124 ]
+	p( en | problemas ...) 	= [1gram] 0.02037096 [ -1.690988 ]
+	p( la | en ...) 	= [2gram] 0.0808595 [ -1.092269 ]
+	p( ronda | la ...) 	= [1gram] 0.002547953 [ -2.593809 ]
+	p( litoral | ronda ...) 	= [1gram] 0.003159571 [ -2.500372 ]
+	p( los | litoral ...) 	= [1gram] 0.005386827 [ -2.268667 ]
+	p( camioneros | los ...) 	= [1gram] 0.002753062 [ -2.560184 ]
+	p( acusan | camioneros ...) 	= [1gram] 0.003159571 [ -2.500372 ]
+	p( al | acusan ...) 	= [1gram] 0.00652621 [ -2.185339 ]
+	p( ayuntamiento | al ...) 	= [1gram] 0.0001275801 [ -3.894217 ]
+	p( de | ayuntamiento ...) 	= [2gram] 0.3274402 [ -0.484868 ]
+	p( la | de ...) 	= [2gram] 0.1415609 [ -0.8490568 ]
+	p( ciudad | la ...) 	= [2gram] 0.01275287 [ -1.894392 ]
+	p( </s> | ciudad ...) 	= [2gram] 0.06548804 [ -1.183838 ]
+1 sentences, 29 words, 0 OOVs
+0 zeroprobs, logprob= -76.18061 ppl= 346.2211 ppl1= 423.5625
+
+no cumplir con un acuerdo que les permita circular por esa zona sin ser multados ahora se ha trasladado la protesta
+	p( no | <s> ) 	= [2gram] 0.02054878 [ -1.687214 ]
+	p( cumplir | no ...) 	= [1gram] 3.797092e-05 [ -4.420549 ]
+	p( con | cumplir ...) 	= [1gram] 0.005436163 [ -2.264708 ]
+	p( un | con ...) 	= [1gram] 0.006796587 [ -2.167709 ]
+	p( acuerdo | un ...) 	= [2gram] 0.002007927 [ -2.697252 ]
+	p( que | acuerdo ...) 	= [1gram] 0.026157 [ -1.582412 ]
+	p( les | que ...) 	= [2gram] 0.0005440829 [ -3.264335 ]
+	p( permita | les ...) 	= [1gram] 0.002635868 [ -2.579076 ]
+	p( circular | permita ...) 	= [1gram] 5.272555e-05 [ -4.277979 ]
+	p( por | circular ...) 	= [1gram] 0.006846642 [ -2.164522 ]
+	p( esa | por ...) 	= [1gram] 0.0004259261 [ -3.370666 ]
+	p( zona | esa ...) 	= [1gram] 0.002530028 [ -2.596875 ]
+	p( sin | zona ...) 	= [1gram] 0.001398979 [ -2.854189 ]
+	p( ser | sin ...) 	= [1gram] 0.00153457 [ -2.814013 ]
+	p( multados | ser ...) 	= [1gram] 0.002248761 [ -2.648057 ]
+	p( ahora | multados ...) 	= [1gram] 0.001019185 [ -2.991747 ]
+	p( se | ahora ...) 	= [1gram] 0.002956489 [ -2.529224 ]
+	p( ha | se ...) 	= [2gram] 0.03868014 [ -1.412512 ]
+	p( trasladado | ha ...) 	= [1gram] 0.00233094 [ -2.632469 ]
+	p( la | trasladado ...) 	= [1gram] 0.01792004 [ -1.746661 ]
+	p( protesta | la ...) 	= [1gram] 4.251913e-05 [ -4.371416 ]
+	p( </s> | protesta ...) 	= [2gram] 0.1686658 [ -0.7729729 ]
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -57.84656 ppl= 425.9797 ppl1= 568.3265
+
+ronda la ronda de dalt siguiéndola está aitor álvarez
+	p( ronda | <s> ) 	= [1gram] 0.002443154 [ -2.612049 ]
+	p( la | ronda ...) 	= [1gram] 0.01792004 [ -1.746661 ]
+	p( ronda | la ...) 	= [1gram] 0.002547953 [ -2.593809 ]
+	p( de | ronda ...) 	= [1gram] 0.0448855 [ -1.347894 ]
+	p( dalt | de ...) 	= [1gram] 0.002342584 [ -2.630305 ]
+	p( siguiéndola | dalt ...) 	= [1gram] 0.003159571 [ -2.500372 ]
+	p( está | siguiéndola ...) 	= [1gram] 0.001778775 [ -2.749879 ]
+	p( aitor | está ...) 	= [1gram] 0.002397882 [ -2.620172 ]
+	p( álvarez | aitor ...) 	= [1gram] 0.003159571 [ -2.500372 ]
+	p( </s> | álvarez ...) 	= [1gram] 0.08248519 [ -1.083624 ]
+1 sentences, 9 words, 0 OOVs
+0 zeroprobs, logprob= -22.38514 ppl= 173.1863 ppl1= 307.07
+
+buenos días antonio pues ahora mismo el tráfico en la ronda litoral como decías ha vuelto a la normalidad y se circula con fluidez de hecho hemos
+	p( buenos | <s> ) 	= [2gram] 0.003217756 [ -2.492447 ]
+	p( días | buenos ...) 	= [2gram] 0.7856646 [ -0.1047628 ]
+	p( antonio | días ...) 	= [1gram] 0.000116823 [ -3.932472 ]
+	p( pues | antonio ...) 	= [1gram] 0.001636796 [ -2.786005 ]
+	p( ahora | pues ...) 	= [1gram] 0.0009317641 [ -3.030694 ]
+	p( mismo | ahora ...) 	= [1gram] 0.0001394654 [ -3.855534 ]
+	p( el | mismo ...) 	= [1gram] 0.01460604 [ -1.835467 ]
+	p( tráfico | el ...) 	= [1gram] 0.002286628 [ -2.640805 ]
+	p( en | tráfico ...) 	= [1gram] 0.02437659 [ -1.613027 ]
+	p( la | en ...) 	= [2gram] 0.0808595 [ -1.092269 ]
+	p( ronda | la ...) 	= [1gram] 0.002547953 [ -2.593809 ]
+	p( litoral | ronda ...) 	= [1gram] 0.003159571 [ -2.500372 ]
+	p( como | litoral ...) 	= [1gram] 0.006336318 [ -2.198163 ]
+	p( decías | como ...) 	= [1gram] 0.002832515 [ -2.547828 ]
+	p( ha | decías ...) 	= [1gram] 0.00291816 [ -2.534891 ]
+	p( vuelto | ha ...) 	= [2gram] 0.00803171 [ -2.095192 ]
+	p( a | vuelto ...) 	= [2gram] 0.1686658 [ -0.7729729 ]
+	p( la | a ...) 	= [2gram] 0.07948918 [ -1.099692 ]
+	p( normalidad | la ...) 	= [1gram] 0.002547953 [ -2.593809 ]
+	p( y | normalidad ...) 	= [1gram] 0.01279281 [ -1.893034 ]
+	p( se | y ...) 	= [2gram] 0.002007927 [ -2.697252 ]
+	p( circula | se ...) 	= [1gram] 0.002556452 [ -2.592362 ]
+	p( con | circula ...) 	= [1gram] 0.00652621 [ -2.185339 ]
+	p( fluidez | con ...) 	= [1gram] 0.002245195 [ -2.648746 ]
+	p( de | fluidez ...) 	= [1gram] 0.0448855 [ -1.347894 ]
+	p( hecho | de ...) 	= [1gram] 0.0001924695 [ -3.715638 ]
+	p( hemos | hecho ...) 	= [1gram] 0.001390074 [ -2.856962 ]
+	p( </s> | hemos ...) 	= [1gram] 0.06342008 [ -1.197773 ]
+1 sentences, 27 words, 0 OOVs
+0 zeroprobs, logprob= -63.45521 ppl= 184.611 ppl1= 223.9716
+
+iba a hacer
+	p( iba | <s> ) 	= [1gram] 0.0002007325 [ -3.697382 ]
+	p( a | iba ...) 	= [1gram] 0.01366401 [ -1.864422 ]
+	p( hacer | a ...) 	= [1gram] 0.0003371128 [ -3.472225 ]
+	p( </s> | hacer ...) 	= [2gram] 0.09355435 [ -1.028936 ]
+1 sentences, 3 words, 0 OOVs
+0 zeroprobs, logprob= -10.06296 ppl= 327.8998 ppl1= 2261.109
+
+trayecto desde un lado
+	p( trayecto | <s> ) 	= [1gram] 0.002443154 [ -2.612049 ]
+	p( desde | trayecto ...) 	= [1gram] 0.00215857 [ -2.665834 ]
+	p( un | desde ...) 	= [1gram] 0.008225961 [ -2.084813 ]
+	p( lado | un ...) 	= [1gram] 0.0001156278 [ -3.936938 ]
+	p( </s> | lado ...) 	= [2gram] 0.0843329 [ -1.074003 ]
+1 sentences, 4 words, 0 OOVs
+0 zeroprobs, logprob= -12.37364 ppl= 298.351 ppl1= 1239.965
+
+al otro
+	p( al | <s> ) 	= [1gram] 0.005046425 [ -2.297016 ]
+	p( otro | al ...) 	= [2gram] 0.004438569 [ -2.352757 ]
+	p( </s> | otro ...) 	= [1gram] 0.06213721 [ -1.206648 ]
+1 sentences, 2 words, 0 OOVs
+0 zeroprobs, logprob= -5.856421 ppl= 89.56544 ppl1= 847.6385
+
+ningún problema y se han reabierto todos los accesos los problemas se han trasladado a la ronda en el norte de la ciudad allí están ahora los camiones haciendo una marcha lenta que provoca retenciones kilometros
+	p( ningún | <s> ) 	= [1gram] 0.002443154 [ -2.612049 ]
+	p( problema | ningún ...) 	= [1gram] 0.0001555733 [ -3.808065 ]
+	p( y | problema ...) 	= [1gram] 0.01121334 [ -1.950265 ]
+	p( se | y ...) 	= [2gram] 0.002007927 [ -2.697252 ]
+	p( han | se ...) 	= [2gram] 0.003513872 [ -2.454214 ]
+	p( reabierto | han ...) 	= [1gram] 0.002559575 [ -2.591832 ]
+	p( todos | reabierto ...) 	= [1gram] 0.001209083 [ -2.917544 ]
+	p( los | todos ...) 	= [2gram] 0.1856646 [ -0.7312708 ]
+	p( accesos | los ...) 	= [1gram] 0.002753062 [ -2.560184 ]
+	p( los | accesos ...) 	= [1gram] 0.005386827 [ -2.268667 ]
+	p( problemas | los ...) 	= [1gram] 4.594191e-05 [ -4.337791 ]
+	p( se | problemas ...) 	= [1gram] 0.002756027 [ -2.559716 ]
+	p( han | se ...) 	= [2gram] 0.003513872 [ -2.454214 ]
+	p( trasladado | han ...) 	= [1gram] 0.002559575 [ -2.591832 ]
+	p( a | trasladado ...) 	= [1gram] 0.01602109 [ -1.795308 ]
+	p( la | a ...) 	= [2gram] 0.07948918 [ -1.099692 ]
+	p( ronda | la ...) 	= [1gram] 0.002547953 [ -2.593809 ]
+	p( en | ronda ...) 	= [1gram] 0.02437659 [ -1.613027 ]
+	p( el | en ...) 	= [2gram] 0.175199 [ -0.7564683 ]
+	p( norte | el ...) 	= [1gram] 0.002286628 [ -2.640805 ]
+	p( de | norte ...) 	= [1gram] 0.0448855 [ -1.347894 ]
+	p( la | de ...) 	= [2gram] 0.1415609 [ -0.8490568 ]
+	p( ciudad | la ...) 	= [2gram] 0.01275287 [ -1.894392 ]
+	p( allí | ciudad ...) 	= [1gram] 4.779168e-05 [ -4.320648 ]
+	p( están | allí ...) 	= [1gram] 0.0007513938 [ -3.124132 ]
+	p( ahora | están ...) 	= [1gram] 0.000872145 [ -3.059411 ]
+	p( los | ahora ...) 	= [1gram] 0.004829079 [ -2.316136 ]
+	p( camiones | los ...) 	= [1gram] 0.002753062 [ -2.560184 ]
+	p( haciendo | camiones ...) 	= [1gram] 0.0001555733 [ -3.808065 ]
+	p( una | haciendo ...) 	= [1gram] 0.00696535 [ -2.157057 ]
+	p( marcha | una ...) 	= [1gram] 0.002111051 [ -2.675501 ]
+	p( lenta | marcha ...) 	= [1gram] 0.003159571 [ -2.500372 ]
+	p( que | lenta ...) 	= [1gram] 0.02836443 [ -1.547226 ]
+	p( provoca | que ...) 	= [1gram] 4.277972e-05 [ -4.368762 ]
+	p( retenciones | provoca ...) 	= [1gram] 0.002626798 [ -2.580573 ]
+	p( kilometros | retenciones ...) 	= [1gram] 0.003159571 [ -2.500372 ]
+	p( </s> | kilometros ...) 	= [1gram] 0.08248519 [ -1.083624 ]
+1 sentences, 36 words, 0 OOVs
+0 zeroprobs, logprob= -89.72741 ppl= 266.1124 ppl1= 310.7621
+
+picas
+	p( picas | <s> ) 	= [1gram] 0.002443154 [ -2.612049 ]
+	p( </s> | picas ...) 	= [1gram] 0.08248519 [ -1.083624 ]
+1 sentences, 1 words, 0 OOVs
+0 zeroprobs, logprob= -3.695673 ppl= 70.44279 ppl1= 4962.187
+
+una hora
+	p( una | <s> ) 	= [2gram] 0.003217756 [ -2.492447 ]
+	p( hora | una ...) 	= [2gram] 0.04463515 [ -1.350323 ]
+	p( </s> | hora ...) 	= [2gram] 0.1856646 [ -0.7312708 ]
+1 sentences, 2 words, 0 OOVs
+0 zeroprobs, logprob= -4.574041 ppl= 33.47189 ppl1= 193.6513
+
+que normal
+	p( que | <s> ) 	= [2gram] 0.04827842 [ -1.316247 ]
+	p( normal | que ...) 	= [1gram] 0.002563569 [ -2.591155 ]
+	p( </s> | normal ...) 	= [1gram] 0.08248519 [ -1.083624 ]
+1 sentences, 2 words, 0 OOVs
+0 zeroprobs, logprob= -4.991026 ppl= 46.09729 ppl1= 312.9774
+
+ente se circula sin problemas en la ciudad de barcelona
+	p( ente | <s> ) 	= [1gram] 0.002443154 [ -2.612049 ]
+	p( se | ente ...) 	= [1gram] 0.003297957 [ -2.481755 ]
+	p( circula | se ...) 	= [1gram] 0.002556452 [ -2.592362 ]
+	p( sin | circula ...) 	= [1gram] 0.001398979 [ -2.854189 ]
+	p( problemas | sin ...) 	= [1gram] 4.109934e-05 [ -4.386165 ]
+	p( en | problemas ...) 	= [1gram] 0.02037096 [ -1.690988 ]
+	p( la | en ...) 	= [2gram] 0.0808595 [ -1.092269 ]
+	p( ciudad | la ...) 	= [2gram] 0.01275287 [ -1.894392 ]
+	p( de | ciudad ...) 	= [2gram] 0.01686658 [ -1.772973 ]
+	p( barcelona | de ...) 	= [1gram] 0.002342584 [ -2.630305 ]
+	p( </s> | barcelona ...) 	= [1gram] 0.08248519 [ -1.083624 ]
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -25.09107 ppl= 190.9882 ppl1= 322.9291
+
+gracias aitor el secretario general de la ocde ha defendido esta mañana en la ser
+	p( gracias | <s> ) 	= [1gram] 0.0003475719 [ -3.458955 ]
+	p( aitor | gracias ...) 	= [1gram] 0.002611611 [ -2.583091 ]
+	p( el | aitor ...) 	= [1gram] 0.01754026 [ -1.755964 ]
+	p( secretario | el ...) 	= [1gram] 0.002286628 [ -2.640805 ]
+	p( general | secretario ...) 	= [1gram] 0.003159571 [ -2.500372 ]
+	p( de | general ...) 	= [1gram] 0.0448855 [ -1.347894 ]
+	p( la | de ...) 	= [2gram] 0.1415609 [ -0.8490568 ]
+	p( ocde | la ...) 	= [1gram] 0.002547953 [ -2.593809 ]
+	p( ha | ocde ...) 	= [1gram] 0.00291816 [ -2.534891 ]
+	p( defendido | ha ...) 	= [1gram] 0.00233094 [ -2.632469 ]
+	p( esta | defendido ...) 	= [1gram] 0.00291816 [ -2.534891 ]
+	p( mañana | esta ...) 	= [2gram] 0.1836498 [ -0.7360095 ]
+	p( en | mañana ...) 	= [2gram] 0.02108323 [ -1.676063 ]
+	p( la | en ...) 	= [2gram] 0.0808595 [ -1.092269 ]
+	p( ser | la ...) 	= [2gram] 0.008288599 [ -2.081519 ]
+	p( </s> | ser ...) 	= [2gram] 0.156666 [ -0.8050252 ]
+1 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -31.82308 ppl= 97.4861 ppl1= 132.2936
+
+incremento del salario mínimo no está directamente relacionado con la destrucción de empleo ángel gurría
+	p( incremento | <s> ) 	= [1gram] 0.002443154 [ -2.612049 ]
+	p( del | incremento ...) 	= [1gram] 0.005956512 [ -2.225008 ]
+	p( salario | del ...) 	= [1gram] 3.810531e-05 [ -4.419014 ]
+	p( mínimo | salario ...) 	= [2gram] 0.3274402 [ -0.484868 ]
+	p( no | mínimo ...) 	= [1gram] 0.006986194 [ -2.155759 ]
+	p( está | no ...) 	= [2gram] 0.001547391 [ -2.8104 ]
+	p( directamente | está ...) 	= [1gram] 0.002397882 [ -2.620172 ]
+	p( relacionado | directamente ...) 	= [1gram] 0.003159571 [ -2.500372 ]
+	p( con | relacionado ...) 	= [1gram] 0.00652621 [ -2.185339 ]
+	p( la | con ...) 	= [2gram] 0.06492382 [ -1.187596 ]
+	p( destrucción | la ...) 	= [1gram] 0.002547953 [ -2.593809 ]
+	p( de | destrucción ...) 	= [1gram] 0.0448855 [ -1.347894 ]
+	p( empleo | de ...) 	= [1gram] 3.909203e-05 [ -4.407912 ]
+	p( ángel | empleo ...) 	= [1gram] 0.002862798 [ -2.543209 ]
+	p( gurría | ángel ...) 	= [1gram] 0.003159571 [ -2.500372 ]
+	p( </s> | gurría ...) 	= [1gram] 0.08248519 [ -1.083624 ]
+1 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -37.6774 ppl= 226.3796 ppl1= 324.9575
+
+esa intención del gobierno
+	p( esa | <s> ) 	= [1gram] 0.0006412506 [ -3.192972 ]
+	p( intención | esa ...) 	= [1gram] 0.002530028 [ -2.596875 ]
+	p( del | intención ...) 	= [1gram] 0.005956512 [ -2.225008 ]
+	p( gobierno | del ...) 	= [2gram] 0.00432476 [ -2.364038 ]
+	p( </s> | gobierno ...) 	= [1gram] 0.06857637 [ -1.163826 ]
+1 sentences, 4 words, 0 OOVs
+0 zeroprobs, logprob= -11.54272 ppl= 203.4903 ppl1= 768.5632
+
+puesto como ejemplo lo sucedido en otros países que han incrementado también ese mismo salario
+	p( puesto | <s> ) 	= [1gram] 0.0001202979 [ -3.919742 ]
+	p( como | puesto ...) 	= [1gram] 0.005753502 [ -2.240068 ]
+	p( ejemplo | como ...) 	= [1gram] 0.0002327229 [ -3.633161 ]
+	p( lo | ejemplo ...) 	= [1gram] 0.00467083 [ -2.330606 ]
+	p( sucedido | lo ...) 	= [1gram] 0.001680495 [ -2.774563 ]
+	p( en | sucedido ...) 	= [1gram] 0.02437659 [ -1.613027 ]
+	p( otros | en ...) 	= [1gram] 0.0004117355 [ -3.385382 ]
+	p( países | otros ...) 	= [2gram] 0.03373316 [ -1.471943 ]
+	p( que | países ...) 	= [1gram] 0.02468847 [ -1.607506 ]
+	p( han | que ...) 	= [2gram] 0.0005440829 [ -3.264335 ]
+	p( incrementado | han ...) 	= [1gram] 0.002559575 [ -2.591832 ]
+	p( también | incrementado ...) 	= [1gram] 0.00462724 [ -2.334678 ]
+	p( ese | también ...) 	= [1gram] 0.00150654 [ -2.822019 ]
+	p( mismo | ese ...) 	= [1gram] 0.000129868 [ -3.886498 ]
+	p( salario | mismo ...) 	= [1gram] 4.390536e-05 [ -4.357482 ]
+	p( </s> | salario ...) 	= [1gram] 0.05547915 [ -1.25587 ]
+1 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -43.48871 ppl= 522.4497 ppl1= 792.953
+
+igualito
+	p( igualito | <s> ) 	= [1gram] 0.002443154 [ -2.612049 ]
+	p( </s> | igualito ...) 	= [1gram] 0.08248519 [ -1.083624 ]
+1 sentences, 1 words, 0 OOVs
+0 zeroprobs, logprob= -3.695673 ppl= 70.44279 ppl1= 4962.187
+
+cuando estaba el debate
+	p( cuando | <s> ) 	= [2gram] 0.000292315 [ -3.534149 ]
+	p( estaba | cuando ...) 	= [1gram] 4.275127e-05 [ -4.369051 ]
+	p( el | estaba ...) 	= [1gram] 0.01478784 [ -1.830095 ]
+	p( debate | el ...) 	= [2gram] 0.0008877137 [ -3.051727 ]
+	p( </s> | debate ...) 	= [1gram] 0.0704832 [ -1.151914 ]
+1 sentences, 4 words, 0 OOVs
+0 zeroprobs, logprob= -13.93694 ppl= 612.8967 ppl1= 3049.539
+
+file resources/tmp/senteces_tests.txt: 30 sentences, 381 words, 0 OOVs
+0 zeroprobs, logprob= -982.3341 ppl= 245.5316 ppl1= 378.7083
