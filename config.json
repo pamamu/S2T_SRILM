@@ -1,5 +1,5 @@
 {
   "base_model": "resources/models/es.lm",
-  "srilm_bin_path": "lib/srilm/bin/macosx",
+  "srilm_bin_path": "lib/srilm/bin/i686-m64",
   "test_devel": 5
 }
