@@ -36,6 +36,7 @@ if __name__ == '__main__':
             sys.exit(1)
 
         args = sys.argv
+        print(args)
 
         container_name = args[1]
         shared_folder = args[2]
