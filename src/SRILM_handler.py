@@ -41,4 +41,4 @@ class SRILMHandler(ContainerHandler):
 
 if __name__ == '__main__':
     handler = SRILMHandler('SRILM', 'PYRO:MainController@localhost:4040')
-    print(handler.run(input_json='resources/tmp/input.json', output_folder='resources/out'))
+    print(handler.run(input_json='resources/tmp/input.json', output_folder='/srv/shared_folder'))
