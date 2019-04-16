@@ -3,6 +3,7 @@ import os
 import re
 
 import shutil
+import socket
 
 info_file = 'resources/info.json'
 config_file = 'config.json'
@@ -159,3 +160,11 @@ def clean_tmp_folder():
     :return:
     """
     shutil.rmtree(tmp_folder)
+
+
+def get_ip():
+    """
+    TODO DOCUMENTATION
+    :return:
+    """
+    return socket.gethostbyname(socket.gethostname())
