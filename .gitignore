@@ -1,6 +1,5 @@
 
 \.idea/
-lib
 *.pyc
 
 .DS_Store
