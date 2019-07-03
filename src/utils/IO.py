@@ -135,7 +135,7 @@ def save_response(output_path, files):
         files = [files]
     out = []
     for i in files:
-        output = os.path.join(output_path, os.path.basename(i))
+        output = os.path.join(output_path, "es.lm")
         shutil.copyfile(i, output)
         out.append(output)
 
